@@ -1,0 +1,6 @@
+include:
+  - ../../docker-compose-network.yml
+  - ./kafka/docker-compose-kafka-zoo.yml
+  - ./kafka-ui/docker-compose-kafka-ui.yml
+  - ./zookeeper/docker-compose-zookeeper.yml
+  - ./zoonavigator/docker-compose-zoonavigator.yml
