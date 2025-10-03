@@ -1,4 +1,0 @@
-include:
-  - ../../docker-compose-network.yml
-  - ./kafka/docker-compose-kafka-raft.yml
-  - ./kafka-ui/docker-compose-kafka-ui.yml
